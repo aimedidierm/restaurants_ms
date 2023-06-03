@@ -1,4 +1,4 @@
-# restaurents_ms
+# restaurents_ms project
 
 ## Project setup
 ```
